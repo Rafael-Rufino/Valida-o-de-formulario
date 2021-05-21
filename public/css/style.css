@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    outline: 0;
+
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(20, 18, 18);
+    max-width: 600px;
+    border-radius: 4px;
+    margin: 20px auto;
+    height: 100%;
+    padding: 40px;
+}
+.tabelaImc{
+    text-align:left;
+}
+.imc{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    line-height:25px;
+
+}
+
+
+ul li{
+    color: rgb(175, 162, 162);    
+    margin-left: 20px;
+}
+ul{
+    padding-bottom: 8px;
+    padding-top: 22px;;
+}
+.container h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+.container p{
+    display: grid;
+    text-align: justify;
+ 
+}
+.container form{
+    display: flex;
+    flex-direction: column;
+   
+}
+.container label{
+    font-size: 20px;
+    color: blueviolet;
+    padding: 5px 5px 5px 0px;
+}
+.container form input{
+    border-radius: 4px;
+    border: 1px solid gainsboro;
+    padding: 6px;
+
+    height: 40px;
+
+}
+.container form input:focus{
+    border-radius: 4px;
+    display: inline-block;
+    box-shadow: 0 0 0 2px rgb(95, 36, 161);
+
+
+
+} 
+.container button{
+    margin-top: 20px;
+    height: 45px;
+    background-color: rgb(95, 36, 161);
+    color: white;
+    border-radius: 6px;
+    font-size: 20px;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+}
+.container button:hover{
+    background-color:rgb(76, 20, 141) ;
+}
+
+body, html{
+    background-color: rgb(95, 36, 161);
+    height: 100%;
+    width: 100%;
+
+}
+.error-text{
+    padding-top: 5px;
+    font-size:12px;
+    color: rgb(187, 32, 32);
+}
