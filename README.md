@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Web Home" src="./.github/web.png" width="900px">
+    <img alt="Web Home" src="./.github/web1.png" width="900px">
 </h1>
 
 
