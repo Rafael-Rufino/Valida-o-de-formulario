@@ -16,7 +16,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>Validação de formulario</strong> é uma aplicação que permite válidar todos os campos do formulario, caso nao esteja de acordo com as regras da aplicação o usuario não consegue enviar seus dados.
+O <strong>Validação de formulario</strong> é uma aplicação que permite válidar todos os campos do formulario, caso nao esteja de acordo com as regras da aplicação, o usuario não consegue enviar seus dados.
 
 Essa aplicação foi construída durante o curso <strong> JavaScript e TypeScript do Básico ao avançado </strong> distribuída por  Luiz Otávio Miranda..
 
